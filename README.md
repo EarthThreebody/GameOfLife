@@ -3,5 +3,5 @@
 ### Idea: Predator and Producer
 
 
-### Relevant websites
+### Inspirations
 http://powdertoy.co.uk/
